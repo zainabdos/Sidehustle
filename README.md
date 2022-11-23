@@ -1,0 +1,2 @@
+# Sidehustle
+Training class
